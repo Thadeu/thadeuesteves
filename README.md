@@ -1,2 +1,2 @@
-# thadeuesteves
-Blog sobre desenvolvimento web
+# Thadeu Esteves Jr
+Blog sobre Desenvolvimento Web
